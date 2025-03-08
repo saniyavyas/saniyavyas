@@ -2,7 +2,7 @@
 ##          welcome!
 
 <<!--
-- 🔭 I’m working on a React web app called LessonLinks through an EdTech Hackathon!~
+- 🔭 I’m working on a React web app called LessonLinks through the NYEdTech Hackathon!~
 - 🌱 I’m currently learning Javascript, React, MERN apps
 - 😄 Pronouns: she/her
 -->
