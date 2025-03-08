@@ -1,5 +1,5 @@
 ## ☆*: .｡. (❁´◡`❁) .｡.:*☆
-##          hello!
+##          welcome!
 ![](https://github.com/saniyavyas/saniyavyas/blob/main/swing.gif)
 
 - 🔭 I’m working on a React web app called LessonLinks through the NYEdTech Hackathon!~
