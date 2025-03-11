@@ -3,7 +3,8 @@
 ![](https://github.com/saniyavyas/saniyavyas/blob/main/swing.gif)
 
 - 🔭 I’m working on a React web app called LessonLinks through the NYEdTech Hackathon!~
-- 🌱 I’m currently learning Javascript, React, MERN apps
+- 🌱 I’m currently learning Javascript and React, and have used Mongo DB (Atlas), Express.js, and Node.js for my web app projects
+- 🤔 I mainly code with Python using either Pycharm or VSCode as my IDEs of choice
 - 😄 Pronouns: she/her
   
   
